@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giridharcloud
+- 👋 Hi, I’m Giridhar
 - 👀 I’m interested in Cloud Architecting
 - 🌱 I’m currently learning ...
 - 📫 YOu can reachout me giridhar.cloud@hotmail.com
